@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+.box {
+border: solid 5px rgb(255, 0, 170);
+
+}
